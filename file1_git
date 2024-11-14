@@ -1,12 +1,15 @@
-
 <!DOCTYPE html>
 <html>
+
 <head>
     <title>My HTML Page</title>
 </head>
+
 <body>
-	<H1>I had made these chnages in this file<H1>
-    <h1>Hello, World!</h1>
-    <p>This is a simple HTML file.</p>
+    <H1>I had made these chnages in this file<H1>
+            <h1>Hello, World!</h1>
+            <p>This is a simple HTML file.</p>
+            <P>2nd time i am making these changes in this file </P>
 </body>
+
 </html>
